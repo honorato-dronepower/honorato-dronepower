@@ -1,12 +1,12 @@
-## 👋 About me:
+### 👋 About me:
 
 Olá! Sou Felipe Honorato (devhonorato), desenvolvedor Fullstack.
 
-## 🌐 Social media:
+<!--## 🌐 Social media:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-dev/) -->
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 <div align="left">
   
   [![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&lang=br&theme=github)](https://github.com/devhonorato/quotes-readme)
@@ -48,7 +48,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 
 <div align="left">
   
-  ## 📊 GitHub Stats:
+  ### 📊 GitHub Stats:
   
   [![](https://github-readme-streak-stats.herokuapp.com/?user=honorato-dronepower&theme=dark&hide_border=true)](https://github.com/honorato-dronepower)
   [![](https://github-readme-stats.vercel.app/api?username=honorato-dronepower&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/honorato-dronepower)
@@ -58,7 +58,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 
 <div align="left">
   
-  ## 🏆 GitHub Trophies
+  ### 🏆 GitHub Trophies
   
   [![](https://github-profile-trophy.vercel.app/?username=honorato-dronepower&theme=nord&no-frame=true&no-bg=true&margin-w=4&margin-h=5&row=2&column=4)](https://github.com/honorato-dronepower)
 
@@ -68,7 +68,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 
 <div align="left">
   
-  ## 🔝 Top Contributed Repo
+  ### 🔝 Top Contributed Repo
   
   [![](https://github-contributor-stats.vercel.app/api?username=honorato-dronepower&hide_border=true&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/honorato-dronepower)
 
@@ -76,7 +76,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 
 <div align="left">
 
-  ## ❤️ Thanks 
+  ### ❤️ Thanks 
   
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/devhonorato)
 
