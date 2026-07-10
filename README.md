@@ -1,3 +1,11 @@
+## 👋 About me:
+
+Olá! Sou Felipe Honorato (devhonorato), desenvolvedor Fullstack.
+
+## 🌐 Social media:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-dev/) 
+
 ## ✍️ Random Dev Quote
 <div align="left">
   
@@ -5,9 +13,6 @@
   
 </div>
 
-## 👋 About me:
-
-Olá! Sou Felipe Honorato (devhonorato), desenvolvedor Fullstack.
 
 <!--Gosto de transformar ideias em produtos reais e escaláveis, sempre explorando novas ferramentas e desafios.-->
 
@@ -16,10 +21,6 @@ Olá! Sou Felipe Honorato (devhonorato), desenvolvedor Fullstack.
 Estou sempre aberto a novas oportunidades para colaborar com equipes talentosas e trabalhar em projetos desafiadores. 
 
 Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a construção de soluções inovadoras que impactem positivamente a vida das pessoas.-->
-
-## 🌐 Social media:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-dev/) 
 
 <!--## 💻 Tech Stack:
 
