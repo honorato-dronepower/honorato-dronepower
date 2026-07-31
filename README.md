@@ -46,7 +46,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/honorato-dronepower) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/honorato-dronepower)-->
 
 
-<!-- <div align="left">
+ <div align="left">
   
   ### 📊 GitHub Stats:
   
@@ -54,7 +54,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
   [![](https://github-readme-stats.vercel.app/api?username=honorato-dronepower&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/honorato-dronepower)
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=honorato-dronepower&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/honorato-dronepower)
 
-</div> -->
+</div> 
 
 <!-- <div align="left">
   
