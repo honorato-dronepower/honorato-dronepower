@@ -78,7 +78,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 
   <!-- ### ❤️ Thanks -->
   
-  ![](https://komarev.com/ghpvc/?username=honorato-dronepower&label=PROFILE+VIEWS)
+  <!-- ![](https://komarev.com/ghpvc/?username=honorato-dronepower&label=PROFILE+VIEWS) -->
   [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg)](https://buymeacoffee.com/devhonorato)
   <!--[![Visit Count](https://visitcount.itsvg.in/api?id=devhonorato&icon=5&color=12)](https://github.com/devhonorato)-->
   
