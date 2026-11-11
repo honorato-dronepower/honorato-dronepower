@@ -1,12 +1,12 @@
-### 👋 About me:
+<!--### 👋 About me:-->
 
-Olá! Sou Felipe Honorato (devhonorato), desenvolvedor Fullstack.
+<!--Olá! Sou Felipe Honorato (devhonorato), desenvolvedor Fullstack.-->
 
 <!--## 🌐 Social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-honorato-dev/) -->
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote-->
 <div align="left">
   
   [![Quotes Readme](https://quotes-readme.vercel.app/api?type=horizontal&lang=br&theme=github)](https://github.com/devhonorato/quotes-readme)
@@ -76,13 +76,10 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 
 <div align="left">
 
-  ### ❤️ Thanks 
+  <!-- ### ❤️ Thanks -->
   
-  [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg)](https://buymeacoffee.com/devhonorato)
-
-  
-
   ![](https://komarev.com/ghpvc/?username=honorato-dronepower&label=PROFILE+VIEWS)
+  [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg)](https://buymeacoffee.com/devhonorato)
   <!--[![Visit Count](https://visitcount.itsvg.in/api?id=devhonorato&icon=5&color=12)](https://github.com/devhonorato)-->
   
 
